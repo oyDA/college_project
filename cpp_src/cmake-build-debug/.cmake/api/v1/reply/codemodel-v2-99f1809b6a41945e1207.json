@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Codding/test/college_project/cpp_src/cmake-build-debug",
-		"source" : "C:/Codding/test/college_project/cpp_src"
+		"build" : "C:/Users/ilyac/Projects/college_project/cpp_src/cmake-build-debug",
+		"source" : "C:/Users/ilyac/Projects/college_project/cpp_src"
 	},
 	"version" : 
 	{
