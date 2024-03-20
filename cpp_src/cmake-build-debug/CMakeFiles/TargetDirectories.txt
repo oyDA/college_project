@@ -1,0 +1,3 @@
+C:/Codding/test/college_project/cpp_src/cmake-build-debug/CMakeFiles/cpp_src.dir
+C:/Codding/test/college_project/cpp_src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Codding/test/college_project/cpp_src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
