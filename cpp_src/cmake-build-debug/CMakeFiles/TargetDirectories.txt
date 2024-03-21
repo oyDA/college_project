@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 C:/Codding/Practice_AES_Repo/college_project/cpp_src/cmake-build-debug/CMakeFiles/cpp_src.dir
 C:/Codding/Practice_AES_Repo/college_project/cpp_src/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Codding/Practice_AES_Repo/college_project/cpp_src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+=======
+C:/Users/ilyac/Projects/college_project/cpp_src/cmake-build-debug/CMakeFiles/cpp_src.dir
+C:/Users/ilyac/Projects/college_project/cpp_src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ilyac/Projects/college_project/cpp_src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> ce4fc463c12f3f7c35db43f891de773ba8121def

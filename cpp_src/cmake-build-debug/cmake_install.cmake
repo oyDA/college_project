@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Install script for directory: C:/Codding/Practice_AES_Repo/college_project/cpp_src
+=======
+# Install script for directory: C:/Users/ilyac/Projects/college_project/cpp_src
+>>>>>>> ce4fc463c12f3f7c35db43f891de773ba8121def
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +38,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Programming/CLion 2023.2.2/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Program Files/JetBrains/CLion 2023.3.2/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +49,9 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
+<<<<<<< HEAD
 file(WRITE "C:/Codding/Practice_AES_Repo/college_project/cpp_src/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+=======
+file(WRITE "C:/Users/ilyac/Projects/college_project/cpp_src/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> ce4fc463c12f3f7c35db43f891de773ba8121def
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

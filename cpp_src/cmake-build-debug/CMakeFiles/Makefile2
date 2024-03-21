@@ -44,19 +44,33 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
+<<<<<<< HEAD
 CMAKE_COMMAND = "C:\Programming\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe"
 
 # The command to remove a file.
 RM = "C:\Programming\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
+=======
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe"
+
+# The command to remove a file.
+RM = "C:\Program Files\JetBrains\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
+>>>>>>> ce4fc463c12f3f7c35db43f891de773ba8121def
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = C:\Codding\Practice_AES_Repo\college_project\cpp_src
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\Codding\Practice_AES_Repo\college_project\cpp_src\cmake-build-debug
+=======
+CMAKE_SOURCE_DIR = C:\Users\ilyac\Projects\college_project\cpp_src
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = C:\Users\ilyac\Projects\college_project\cpp_src\cmake-build-debug
+>>>>>>> ce4fc463c12f3f7c35db43f891de773ba8121def
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +94,24 @@ clean: CMakeFiles/cpp_src.dir/clean
 CMakeFiles/cpp_src.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_src.dir\build.make CMakeFiles/cpp_src.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_src.dir\build.make CMakeFiles/cpp_src.dir/build
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Codding\Practice_AES_Repo\college_project\cpp_src\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target cpp_src"
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\ilyac\Projects\college_project\cpp_src\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target cpp_src"
+>>>>>>> ce4fc463c12f3f7c35db43f891de773ba8121def
 .PHONY : CMakeFiles/cpp_src.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/cpp_src.dir/rule: cmake_check_build_system
+<<<<<<< HEAD
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Codding\Practice_AES_Repo\college_project\cpp_src\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/cpp_src.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Codding\Practice_AES_Repo\college_project\cpp_src\cmake-build-debug\CMakeFiles 0
+=======
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ilyac\Projects\college_project\cpp_src\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/cpp_src.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ilyac\Projects\college_project\cpp_src\cmake-build-debug\CMakeFiles 0
+>>>>>>> ce4fc463c12f3f7c35db43f891de773ba8121def
 .PHONY : CMakeFiles/cpp_src.dir/rule
 
 # Convenience name for target.
